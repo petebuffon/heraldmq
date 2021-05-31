@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="3.4988677"
-     inkscape:cx="98.208424"
-     inkscape:cy="42.020859"
+     inkscape:zoom="17.845988"
+     inkscape:cx="178.07515"
+     inkscape:cy="14.265184"
      inkscape:window-width="1536"
      inkscape:window-height="795"
      inkscape:window-x="0"
@@ -83,7 +83,7 @@
          id="path3651" />
     </g>
     <path
-       style="fill:none;stroke:#ff8800;stroke-width:0.546583"
+       style="fill:none;stroke:#ff8800;stroke-width:0.52916668;stroke-miterlimit:4;stroke-dasharray:none"
        id="path1137"
        sodipodi:type="arc"
        sodipodi:cx="-96.676086"
@@ -98,6 +98,20 @@
        transform="rotate(-90)" />
     <path
        style="fill:none;stroke:#ff8800;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path1137-7"
+       sodipodi:type="arc"
+       sodipodi:cx="-96.676086"
+       sodipodi:cy="76.625603"
+       sodipodi:rx="2.7791605"
+       sodipodi:ry="2.7819974"
+       sodipodi:start="0"
+       sodipodi:end="1.5707963"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       transform="rotate(-90)"
+       d="m -93.896926,76.625603 a 2.7791605,2.7819974 0 0 1 -2.77916,2.781997" />
+    <path
+       style="fill:none;stroke:#ff8800;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none"
        id="path1137-6"
        sodipodi:type="arc"
        sodipodi:cx="-96.676086"
@@ -109,20 +123,6 @@
        sodipodi:arc-type="arc"
        sodipodi:open="true"
        d="m -94.828357,76.625603 a 1.8477292,1.8477292 0 0 1 -1.847729,1.847729"
-       transform="rotate(-90)" />
-    <ellipse
-       style="fill:none;stroke:#ff8800;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none"
-       id="path1137-7"
-       sodipodi:type="arc"
-       sodipodi:cx="-96.676086"
-       sodipodi:cy="76.625603"
-       sodipodi:rx="2.7776885"
-       sodipodi:ry="2.7776887"
-       sodipodi:start="0"
-       sodipodi:end="1.5707963"
-       sodipodi:arc-type="arc"
-       sodipodi:open="true"
-       d="m -93.898398,76.625603 a 2.7776885,2.7776887 0 0 1 -2.777688,2.777688"
        transform="rotate(-90)" />
   </g>
 </svg>
